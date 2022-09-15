@@ -1,0 +1,153 @@
+body
+{
+background-color: beige;
+}
+.namelink
+{
+    color: violet;
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: x-large;
+    border-color: violet;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 20px;
+    width: 200px;
+    background-color: white;
+}
+
+
+.melink
+{
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman'
+}
+.courseslink
+{
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman'
+}
+.documentationlink
+{
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman'
+}
+.interestslink
+{
+    color: black;
+    text-align: center;
+    font-family: 'Times New Roman'
+}
+.agbildlink
+{
+    width: 300px;   
+}
+nav
+{
+    text-align: center;
+}
+p
+{
+font-size: 25px;
+}
+.gizmolink
+{
+    width: 300px;
+}
+.minnatigerlink
+{
+    width: 300px;
+}
+.infocourses
+{
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 20px;
+    width: 400px;
+    background-color: white;
+}
+.engelska
+{
+    border-color: violet;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 20px;
+    width: 130px;
+    background-color: violet;
+    color: white;
+}
+
+.historia
+{
+    border-color: violet;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 20px;
+    width: 130px;
+    background-color: violet;
+    color: white;
+}
+
+.idrott
+{
+    border-color: violet;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 20px;
+    width: 200px;
+    background-color: violet;
+    color: white;
+}
+
+.matematik
+{
+    border-color: violet;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 20px;
+    width: 170px;
+    background-color: violet;
+    color: white;
+}
+
+.samhkunskap
+{
+    border-color: violet;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 50px;
+    width: 230px;
+    background-color: violet;
+    color: white;
+}
+
+.svenska
+{
+    border-color: violet;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 20px;
+    width: 120px;
+    background-color: violet;
+    color: white;
+}
+
+.webbut
+{
+    border-color: violet;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 20px;
+    width: 200px;
+    background-color: violet;
+    color: white;
+}
+
+.sushibild
+{
+    width: 300px;
+}
